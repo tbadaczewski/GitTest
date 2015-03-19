@@ -16,7 +16,7 @@ Download & install [Git](http://msysgit.github.io/) keeping all default settings
 
 Optional: install the [github GUI](https://windows.github.com/)
 
-#### On Mac
+#### On Mac ##### tEST
 
 Download Xcode (through the App Store). Not only will this install git, it also has a nice file compare utility.
 
